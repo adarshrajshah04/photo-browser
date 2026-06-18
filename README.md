@@ -1,16 +1,141 @@
-# React + Vite
+# 📸 Photo Browser
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React application that fetches and displays stunning images from the Picsum API. Users can browse a collection of high-quality photos, view photographer details, and open original images in a new tab.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Add your deployed project link here:
 
-## React Compiler
+```bash
+https://your-live-demo-link.com
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* 📷 Fetches images dynamically from the Picsum API
+* 🎨 Responsive image gallery layout
+* 👤 Displays photographer/author information
+* 🔗 Open original image source in a new tab
+* ⚡ Fast and lightweight React application
+* 📱 Responsive design for desktop and mobile devices
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React.js
+* JavaScript (ES6+)
+* Tailwind CSS
+
+### API
+
+* Axios
+* Picsum Photos API
+
+---
+
+## 📂 Project Structure
+
+```bash
+photo-browser/
+│
+├── src/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── public/
+├── package.json
+└── README.md
+```
+
+---
+
+## 📸 Screenshots
+
+Add project screenshots here.
+
+```bash
+![alt text](image.png)
+
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/adarshrajshah04/photo-browser.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd photo-browser
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 🔗 API Used
+
+Picsum Photos API
+
+```bash
+https://picsum.photos/v2/list?page=2&limit=200
+```
+
+---
+
+## 🎯 Learning Outcomes
+
+This project helped in understanding:
+
+* React Hooks (`useState`, `useEffect`)
+* API Integration using Axios
+* State Management
+* Dynamic Rendering with `.map()`
+* Responsive UI Development
+* Handling Asynchronous Data
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome.
+
+Feel free to fork the project and submit a pull request.
+
+---
+
+## 👨‍💻 Author
+
+**Adarshraj Shah**
+
+* GitHub: https://github.com/adarshrajshah04
+
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, please consider giving it a star on GitHub.
+
+⭐ Star this repository to support future development.
