@@ -57,12 +57,12 @@ photo-browser/
 
 ## 📸 Screenshots
 
-Add project screenshots here.
 
-```bash
+
+
 ![alt text](image.png)
 
-```
+
 
 ---
 
