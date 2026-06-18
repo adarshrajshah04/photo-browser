@@ -2,13 +2,7 @@
 
 A modern React application that fetches and displays stunning images from the Picsum API. Users can browse a collection of high-quality photos, view photographer details, and open original images in a new tab.
 
-## 🚀 Live Demo
 
-Add your deployed project link here:
-
-```bash
-https://your-live-demo-link.com
-```
 
 ---
 
